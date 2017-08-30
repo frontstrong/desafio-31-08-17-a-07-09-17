@@ -1,4 +1,3 @@
-# desafio-31-08-17-a-07-09-17
 <h1>Desafio da semana 31/08/17 à 07/09/17</h1>
 <h2>No FrameWork, Please! <br> Javascript Puro!</h2>
 
